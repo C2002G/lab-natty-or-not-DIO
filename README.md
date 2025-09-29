@@ -20,22 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+FastAPI na Prática: Criando APIs com Python e IA Generativa
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um vídeo tutorial gerado automaticamente que ensina como construir uma API RESTful usando FastAPI em Python. O conteúdo foi criado para ser didático, direto ao ponto e visualmente atrativo, ideal para quem está começando ou quer revisar os fundamentos de APIs modernas. Já que tive um descontentamento nas trilhas de API da Vivo - Python AI Backend Developer.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+NotebookLM
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começou com a escrita de um notebook explicativo, contendo código comentado e exemplos práticos de endpoints com FastAPI. Em seguida, utilizei o LM Studio para transformar esse notebook em um vídeo narrado, com animações e destaques visuais automáticos. A IA gerou a voz, os cortes e até sugestões de melhorias no roteiro técnico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo de aproximadamente X minutos (substitua pelo tempo real), que cobre desde a instalação do FastAPI até a criação de rotas, uso de parâmetros, e testes com o Swagger UI. O conteúdo foi bem recebido por colegas e pode ser usado como material introdutório em cursos ou workshops.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo “natty” com IA foi surpreendentemente fluido. A maior dificuldade foi ajustar o tom técnico para que a IA gerasse uma narração clara e envolvente. No fim, a colaboração entre código e criatividade mostrou que ensinar com IA pode ser tão eficaz quanto produzir conteúdo manualmente — e muito mais rápido.
 ```
 
 ### Exemplos e Insigths
